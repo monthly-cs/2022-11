@@ -32,8 +32,9 @@
    7. Inter Process Communication
 3. CPU 스케쥴링
    1. 스케줄러의 정의 및 종류
-   2. 스케쥴러(장기, 중기, 단기)
-   3. CPU 스케쥴러(FCFS, SJF, SRTF, Priority Scheduling, RR)
+   2. 프로세스 스케쥴러(장기, 중기, 단기)
+   3. CPU 스케쥴러 이론
+   4. CPU 스케줄러 예시 (FCFS, SJF, SRTF, Priority Scheduling, RR)
    4. 동기와 비동기
    5. 프로세스 동기화의 정의, 문제점, 해결책
 4. 메모리
